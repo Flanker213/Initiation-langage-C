@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) // Équivalent de int main()
 
     printf("**** BAM ****\n"); // Le personnage se prend un grand coup sur la tête
     nombreDeVies = 4; // Il vient de perdre de la vie
-    //printf("Ah desole, il ne vous reste plus que %d vies maintenant !\n\n", nombreDeVies);0
+    printf("Ah desole, il ne vous reste plus que %d vies maintenant !\n\n", nombreDeVies);
 
     //Fonction pour récupérer une saisie :
     /*
