@@ -6,7 +6,6 @@
 /*
 math.h est une bibliothèque qui contient de nombreuses fonctions mathématiques toutes prêtes
 On peut par exemple faire des des puissances, calculer un carré "5$^2$"
-
 - Les opérations connues par l'ordinateur sont très basique :
 l'addition, la soustraction, la multiplication, la division et le modulo (le reste de la division)
 - Il est possible d'effectuer des calculs entre variables
