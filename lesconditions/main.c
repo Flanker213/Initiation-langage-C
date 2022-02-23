@@ -55,7 +55,7 @@ int main()
     //}
 
     // Instruction alternative avec else if :
-/*
+    /*
     if (age >= 18) // Si l'age est supérieur ou égal à 18
     {
         printf("Vous êtes majeur !");
